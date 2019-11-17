@@ -13,7 +13,7 @@ Usage:
 ```
 *Output:*
 
-![alt]("./simple&#32;Event.png)
+![alt](./simple&#32;Event.png)
 
 The easy way or to make it pretty: 
 
