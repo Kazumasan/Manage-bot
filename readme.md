@@ -7,6 +7,7 @@ Usage:
 ```
 
 ---
+
 # Example: event Command
 ```PT
 !event§ Some Info to go here 
@@ -45,8 +46,6 @@ e.g.
 
 Note: _Link needs to point to a .gif or .png .jpg file. & .webm is not supported by discord._
 
----
-
 # Command: delete [messageID\<snowflake\>]
 
 ```
@@ -56,8 +55,7 @@ This will delete the specified message. Recomended way of deleteing events.
 
 Right-click => delete message will not delete the message from the bots database.
 
-
-# Command: fullEmbed [..args]
+# Command: fullEmbed [...args]
 
 ```
 !fullEmbed§ --[arg] "input"
