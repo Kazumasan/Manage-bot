@@ -19,7 +19,7 @@ Usage:
 The easy way or to make it pretty: 
 
 ```
-!event§ --title "this is the Title" --dessc "Info goes here" --lfg --thumb "random"
+!event§ --title "this is the Title" --desc "Info goes here" --lfg --thumb "random"
 ```
 
 ![alt](./Pretty&#32;Event&#32;--lfg&#32;--thumb&#32;random.png)
