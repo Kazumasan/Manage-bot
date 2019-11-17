@@ -1,0 +1,6 @@
+{
+    "prefix" : "!",
+    "token" : "[BOTTOKEN]",
+    "eventLog" : "./events.json",
+    "botID" : "[BOTID]"
+}
