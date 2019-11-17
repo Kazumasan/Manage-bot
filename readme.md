@@ -57,7 +57,7 @@ This will delete the specified message. Recomended way of deleteing events.
 Right-click => delete message will not delete the message from the bots database.
 
 
-#Command: fullEmbed [..args]
+# Command: fullEmbed [..args]
 
 ```
 !fullEmbed§ --[arg] "input"
