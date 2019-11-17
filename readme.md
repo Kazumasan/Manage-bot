@@ -55,3 +55,21 @@ Note: _Link needs to point to a .gif or .png .jpg file. & .webm is not supported
 This will delete the specified message. Recomended way of deleteing events.
 
 Right-click => delete message will not delete the message from the bots database.
+
+
+#Command: fullEmbed [..args]
+
+```
+!fullEmbed§ --[arg] "input"
+```
+To provide acess to the embeded obj bots can create the user can specify every js method as --[arg] and the corresponding input.
+for fields with multiple input just use the --[arg] again and specify the second parameter.
+
+e.g
+```
+!fullEmbed§ --setAuthor "Author name" --setAuthor "Autor URL" --addField "Field Title" --addField "Field Desc."
+```
+
+this will get messy but it provides a way to implement compleatly custom Embeded Objects.
+
+a list of all methods that can be applied to the \<RichEmbed\> can be found in the [discord.js](https://discord.js.org/#/docs/main/stable/class/RichEmbed) docs.
