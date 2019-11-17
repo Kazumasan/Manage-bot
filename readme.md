@@ -68,6 +68,6 @@ e.g
 !fullEmbed§ --setAuthor "Author name" --setAuthor "Autor URL" --addField "Field Title" --addField "Field Desc."
 ```
 
-this will get messy but it provides a way to implement compleatly custom Embeded Objects.
+this will get messy but it provides a way to implement completely custom Embeded Objects.
 
 a list of all methods that can be applied to the \<RichEmbed\> can be found in the [discord.js](https://discord.js.org/#/docs/main/stable/class/RichEmbed) docs.
